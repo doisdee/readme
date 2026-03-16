@@ -1,18 +1,19 @@
-::: {align="center"}
-# 👨‍💻 Eduardo Rodrigues
+<div align="center">
 
+# 👨‍💻 Eduardo Rodrigues
 ### ⚡ aka **!2Dfxx**
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Fullstack+Developer;JavaScript+Ecosystem+Lover;Node.js+%7C+Next.js+%7C+React;Always+Building+Something+Cool" />`{=html}
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Fullstack+Developer;JavaScript+Ecosystem+Lover;Node.js+%7C+Next.js+%7C+React;Always+Building+Something+Cool" />
 
 ![](https://komarev.com/ghpvc/?username=doisdee&color=blueviolet&style=flat)
-:::
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 # 🧠 About Me
 
-``` javascript
+```javascript
 const eduardo = {
   name: "Eduardo Rodrigues",
   username: "doisdee",
@@ -49,64 +50,38 @@ const eduardo = {
 
   currentFocus: "Fullstack development & scalable backend systems"
 }
-```
+🚀 Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=javascript,typescript,python,lua,nodejs,react,nextjs,html,css,tailwind,mongodb,postgres,git&theme=dark" /> </div>
+📊 GitHub Analytics
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=doisdee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doisdee&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=doisdee&theme=tokyonight&hide_border=true"/> </div>
+🐍 Contribution Snake
+<div align="center">
 
-------------------------------------------------------------------------
-
-# 🚀 Tech Stack
-
-::: {align="center"}
-`<img src="https://skillicons.dev/icons?i=javascript,typescript,python,lua,nodejs,react,nextjs,html,css,tailwind,mongodb,postgres,git&theme=dark" />`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Analytics
-
-::: {align="center"}
-`<img height="170em" src="https://github-readme-stats.vercel.app/api?username=doisdee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>`{=html}
-
-`<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doisdee&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 🔥 Contribution Streak
-
-::: {align="center"}
-`<img src="https://streak-stats.demolab.com?user=doisdee&theme=tokyonight&hide_border=true"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 🐍 Contribution Snake
-
-::: {align="center"}
-![snake
-gif](https://github.com/doisdee/doisdee/blob/output/github-contribution-grid-snake.svg)
-:::
-
-------------------------------------------------------------------------
-
-# 🧩 Featured Projects
+</div>
+🧩 Featured Projects
 
 🚀 Cool things I'm building
 
--   ⚡ Modern Next.js apps
--   🤖 Node.js APIs
--   🗄 Database architectures
--   🧠 Automation scripts
+⚡ Modern Next.js apps
 
-------------------------------------------------------------------------
+🤖 Node.js APIs
 
-# 🌌 Currently Learning
+🗄 Database architectures
 
--   ⚡ Advanced backend architecture
--   🧠 Performance optimization
--   🧩 Scalable system design
+🧠 Automation scripts
 
-------------------------------------------------------------------------
+🌌 Currently Learning
 
-::: {align="center"}
-⭐ From **Eduardo Rodrigues**
-:::
+⚡ Advanced backend architecture
+
+🧠 Performance optimization
+
+🧩 Scalable system design
+
+<div align="center">
+
+⭐ From Eduardo Rodrigues
+
+</div>
