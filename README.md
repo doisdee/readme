@@ -62,3 +62,18 @@ Clean code. Clear logic. No fluff.
 
 &lt;!-- Currently --&gt;
 ## Now
+
+Building:    Distributed cache layer for high-traffic APIs
+Learning:    Advanced PostgreSQL query optimization
+Reading:     "Designing Data-Intensive Applications" — second pass
+plain
+Copy
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+`!2Dfxx` — `doisdee`
+
+</div>
