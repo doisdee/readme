@@ -1,126 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=!2Dfxx&fontSize=80&fontColor=a855f7&fontAlignY=38&desc=Eduardo%20Rodrigues%20%E2%80%94%20Fullstack%20Developer&descSize=18&descAlignY=58&descColor=c084fc&animation=fadeIn" />
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=650&lines=const+dev+%3D+new+Eduardo(%22!2Dfxx%22)%3B;dev.stack(%22Node.js+%7C+Next.js+%7C+React%22)%3B;dev.location(%22%F0%9F%87%A7%F0%9F%87%B7+Brazil%22)%3B;dev.status(%22Always+building+something+%F0%9F%94%A5%22)%3B;%2F%2F+Loading+next+project..." alt="Typing SVG" />
+```
+███████╗██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗  ██████╗
+██╔════╝██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗
+█████╗  ██║  ██║██║   ██║███████║██████╔╝██║  ██║██║   ██║
+██╔══╝  ██║  ██║██║   ██║██╔══██║██╔══██╗██║  ██║██║   ██║
+███████╗██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝
+╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%2F+JavaScript+Ecosystem;Node.js+%E2%80%94+Next.js+%E2%80%94+React;Building+things+that+actually+work.;Based+in+%F0%9F%87%A7%F0%9F%87%B7+Brazil." alt="typing" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=doisdee&color=a855f7&style=for-the-badge&label=VISITORS)
-![GitHub followers](https://img.shields.io/github/followers/doisdee?style=for-the-badge&color=a855f7&labelColor=0d0d0d&label=FOLLOWERS)
+![](https://komarev.com/ghpvc/?username=doisdee&color=ffffff&style=flat-square&label=profile+views)
 
 </div>
-
----
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/doisdee/doisdee/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-## `$ whoami`
-
-```ts
-const eduardo = {
-  alias    : "!2Dfxx",
-  role     : "Fullstack Developer",
-  location : "🇧🇷 Brazil",
-
-  stack: {
-    languages : ["JavaScript", "TypeScript", "Python", "Lua"],
-    frontend  : ["React", "Next.js", "Tailwind", "HTML/CSS"],
-    backend   : ["Node.js", "PostgreSQL", "MongoDB", "QuickDB"],
-    tools     : ["Git", "PNPM", "Docker"],
-  },
-
-  focus    : "Scalable backend systems & modern web apps",
-  learning : ["Advanced architecture", "Perf optimization"],
-  status   : () => "🟢 Open to build something crazy",
-};
-```
-
-<br clear="right"/>
-
----
-
-## `$ ls ./tech-stack`
-
-<div align="center">
-
-### ◈ Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,lua&theme=dark&perline=4" />
-
-### ◈ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark&perline=5" />
-
-### ◈ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb&theme=dark&perline=5" />
-
-### ◈ Tools
-<img src="https://skillicons.dev/icons?i=git,pnpm,vscode,github&theme=dark&perline=4" />
-
-</div>
-
----
-
-## `$ cat ./github-stats`
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=doisdee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0&ring_color=a855f7" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doisdee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=doisdee&theme=tokyonight-duo&hide_border=true&background=0d0d0d&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=94a3b8" />
+---
 
-</div>
+## &nbsp;› about
+
+&nbsp;&nbsp;&nbsp;&nbsp;Hey — I'm **Eduardo**, but you'll find me as **!2Dfxx** around the internet.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I build fullstack web applications with a focus on clean architecture,  
+&nbsp;&nbsp;&nbsp;&nbsp;great developer experience and stuff that actually scales.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Not a fan of over-engineering. Big fan of shipping.
+
+<br/>
 
 ---
 
-## `$ git log --graph`
+## &nbsp;› stack
+
+<br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=doisdee&bg_color=0d0d0d&color=a855f7&line=7c3aed&point=c084fc&area=true&area_color=2d1b69&hide_border=true" />
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=2C2D72)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![PNPM](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=F69220)
+![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
 </div>
+
+<br/>
 
 ---
 
-## `$ ./projects --featured`
+## &nbsp;› stats
+
+<br/>
 
 <div align="center">
 
-| Project | Stack | Status |
-|---|---|---|
-| ⚡ **Modern Next.js Apps** | `Next.js` `TypeScript` `Tailwind` | 🟢 Active |
-| 🤖 **Node.js REST APIs** | `Node.js` `PostgreSQL` `MongoDB` | 🟢 Active |
-| 🗄 **Database Architectures** | `SQL` `NoSQL` `QuickDB` | 🔨 Building |
-| 🧠 **Automation Scripts** | `Python` `Lua` `JS` | 🔄 Ongoing |
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=doisdee&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=888888&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doisdee&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=doisdee&theme=dark&hide_border=true&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222" />
 
 </div>
 
----
-
-## `$ trophy --show`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=doisdee&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
+<br/>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer&text=&fontSize=0" />
+## &nbsp;› currently
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   > !2Dfxx@github:~$ echo "Thanks for visiting 👾"          ║
-║   Thanks for visiting 👾                                     ║
-║                                                              ║
-║   > !2Dfxx@github:~$ █                                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+▸ deepening backend architecture patterns
+▸ exploring performance optimization at scale
+▸ building with Next.js App Router + tRPC
+▸ always on something new
 ```
 
-**⭐ Drop a star if something caught your eye**
+<br/>
+
+---
+
+<div align="center">
+
+<sub>made with intent · !2Dfxx · Brazil</sub>
 
 </div>
