@@ -25,19 +25,26 @@
 
 ## `> whoami`
 
-```js
-const eduardo = {
-    name: "Eduardo Rodrigues",
-    alias: "!2Dfxx",
-    age: 17,
-    location: "Rio de Janeiro, Brazil 🇧🇷",
-    role: "Full Stack Developer",
-    focus: ["Clean Architecture", "Scalable Systems", "Developer Experience"],
-    motto: "Not a fan of over-engineering. Big fan of shipping."
-};
-```
+<br/>
 
-> Desenvolvedor Full Stack com foco no ecossistema JavaScript. Apaixonado por construir aplicações web robustas, com arquitetura limpa e experiência de usuário impecável. Sempre explorando novas tecnologias e buscando evoluir.
+<div align="center">
+
+| 🧑‍💻 | |
+|---|---|
+| **Nome** | Eduardo Rodrigues |
+| **Alias** | !2Dfxx |
+| **Idade** | 17 anos |
+| **Local** | Rio de Janeiro, Brazil 🇧🇷 |
+| **Role** | Full Stack Developer |
+| **Foco** | Clean Architecture · Scalable Systems · DX |
+
+</div>
+
+<br/>
+
+> *"Not a fan of over-engineering. Big fan of shipping."*
+
+Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Apaixonado por construir aplicações web robustas, com arquitetura limpa e experiência de usuário impecável. Sempre explorando novas tecnologias e buscando evoluir.
 
 <br/>
 
@@ -127,20 +134,17 @@ const eduardo = {
 
 ## `> current.focus`
 
-```yaml
-learning:
-  - Aprofundando padrões de arquitetura backend
-  - Otimização de performance em escala
-  - Next.js App Router + Server Actions
+<br/>
 
-building:
-  - Projetos Full Stack com TypeScript end-to-end
-  - APIs escaláveis com Node.js
+<div align="center">
 
-exploring:
-  - Infraestrutura e DevOps
-  - Contribuições open source
-```
+| | O que estou fazendo |
+|---|---|
+| 📚 **Aprendendo** | Padrões de arquitetura backend · Performance em escala · Next.js App Router + Server Actions |
+| 🔨 **Construindo** | Projetos Full Stack com TypeScript end-to-end · APIs escaláveis com Node.js |
+| 🔭 **Explorando** | Infraestrutura e DevOps · Contribuições open source |
+
+</div>
 
 <br/>
 
