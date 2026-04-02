@@ -152,16 +152,6 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Apai
 
 <div align="center">
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doisdee/doisdee/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doisdee/doisdee/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/doisdee/doisdee/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%" />
 
 <sub>⚡ Made with intent · Eduardo Rodrigues · Rio de Janeiro, Brazil 🇧🇷</sub>
