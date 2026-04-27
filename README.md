@@ -1,24 +1,14 @@
 <div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=Eduardo%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Rio%20de%20Janeiro%20%F0%9F%87%A7%F0%9F%87%B7&descSize=16&descAlignY=55&descColor=888888" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Fullstack+Developer+%7C+JavaScript+Ecosystem;Node.js+%E2%80%94+Next.js+%E2%80%94+React+%E2%80%94+TypeScript;Building+clean+%26+scalable+applications.;17+years+old+%E2%80%94+coding+since+day+one." alt="typing" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/seu-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://seu-portfolio.com)
-[![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seu-email@gmail.com)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=doisdee&color=1a1a2e&style=flat-square&label=PROFILE+VIEWS)
-
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=Eduardo%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Rio%20de%20Janeiro%20%F0%9F%87%A7%F0%9F%87%B7&descSize=16&descAlignY=55&descColor=888888" width="100%" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Fullstack+Developer+%7C+JavaScript+Ecosystem;Node.js+%E2%80%94+Next.js+%E2%80%94+React+%E2%80%94+TypeScript;Building+clean+%26+scalable+applications.;17+years+old+%E2%80%94+coding+since+day+one." alt="typing" />
+  <br/>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://seu-portfolio.com)
+  [![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1414958193494196376)
+  [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:edumedeiros1008@gmail.com)
+  <br/>
+  ![](https://komarev.com/ghpvc/?username=doisdee&color=1a1a2e&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
 <br/>
@@ -36,7 +26,6 @@
 | **Idade** | 17 anos |
 | **Local** | Rio de Janeiro, Brazil 🇧🇷 |
 | **Role** | Full Stack Developer |
-| **Foco** | Clean Architecture · Scalable Systems · DX |
 
 </div>
 
@@ -68,6 +57,7 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Apai
 ![Lua](https://img.shields.io/badge/Lua-0a0a0a?style=for-the-badge&logo=lua&logoColor=2C2D72)
 
 </td>
+
 <td align="center" width="50%">
 
 **🎨 Frontend**
@@ -78,6 +68,7 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Apai
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="50%">
 
@@ -89,6 +80,7 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Apai
 ![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=for-the-badge&logo=prisma&logoColor=ffffff)
 
 </td>
+
 <td align="center" width="50%">
 
 **🛠 Tools & DevOps**
@@ -96,7 +88,6 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Apai
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![PNPM](https://img.shields.io/badge/pnpm-0a0a0a?style=for-the-badge&logo=pnpm&logoColor=F69220)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </td>
 </tr>
@@ -124,8 +115,6 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Apai
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=doisdee&bg_color=0a0a0a&color=888888&line=ffffff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-
 </div>
 
 <br/>
@@ -143,17 +132,5 @@ Desenvolvedor Full Stack com foco no ecossistema **JavaScript/TypeScript**. Apai
 | 📚 **Aprendendo** | Padrões de arquitetura backend · Performance em escala · Next.js App Router + Server Actions |
 | 🔨 **Construindo** | Projetos Full Stack com TypeScript end-to-end · APIs escaláveis com Node.js |
 | 🔭 **Explorando** | Infraestrutura e DevOps · Contribuições open source |
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%" />
-
-<sub>⚡ Made with intent · Eduardo Rodrigues · Rio de Janeiro, Brazil 🇧🇷</sub>
 
 </div>
