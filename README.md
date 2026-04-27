@@ -8,7 +8,6 @@
   
   <br/>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://seu-portfolio.com)
   [![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1414958193494196376)
   [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:edumedeiros1008@gmail.com)
   
