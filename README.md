@@ -1,13 +1,19 @@
 <div align="center">
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=200&section=header&text=Eduardo%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Rio%20de%20Janeiro%20%F0%9F%87%A7%F0%9F%87%B7&descSize=16&descAlignY=55&descColor=888888" width="100%" />
+  
   <br/>
+  
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Fullstack+Developer+%7C+JavaScript+Ecosystem;Node.js+%E2%80%94+Next.js+%E2%80%94+React+%E2%80%94+TypeScript;Building+clean+%26+scalable+applications.;17+years+old+%E2%80%94+coding+since+day+one." alt="typing" />
+  
   <br/>
+  
   [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://seu-portfolio.com)
   [![Discord](https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1414958193494196376)
   [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:edumedeiros1008@gmail.com)
+  
   <br/>
+  
   ![](https://komarev.com/ghpvc/?username=doisdee&color=1a1a2e&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
